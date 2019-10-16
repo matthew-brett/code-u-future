@@ -7,6 +7,11 @@ bibliography: ["code_future.bib", "data-science-bib/data_science.bib"]
 
 # Introduction
 
+> “I think it likely that in ten years’ time every undergraduate programme will
+> have to include some teaching in data science”. [Professor Sir Adrian Smith
+> FRS, Alan Turing Institute Director and Chief Executive, quotation used with
+> permission]
+
 Software engineering is now a life skill. Gone are the days when coding was just
 for techies. Today coding is a core part of the primary school curriculum where
 it is taught alongside reading, writing and arithmetic. We argue that the day is
