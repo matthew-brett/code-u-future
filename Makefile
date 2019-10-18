@@ -1,4 +1,4 @@
-all: slides handout
+all: slides handout debate
 
 SOURCE=code_u_future
 
@@ -16,5 +16,9 @@ handout: $(SOURCE).md
 	    --filter pandoc-citeproc \
 	    -o $(SOURCE)_handout.pdf
 
+.PHONY: debate
+debate:
+	$(MAKE) -C debate
+
 clean:
-	rm *.pdf *.html
+	rm *.pdf *.html ; $(MAKE) -C debate clean
