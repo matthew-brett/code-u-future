@@ -10,3 +10,5 @@
 * [Blueprint for a modern university](http://asterisk.dynevor.org/blueprint-for-a-modern-university.html)
 * [Research methods in the 21st century](https://matthew.dynevor.org/manifesto.html)
 * [Reproducible analysis course[(https://www.frontiersin.org/articles/10.3389/fnins.2018.00727/full)
+* [The data science revolution in
+  education](https://github.com/matthew-brett/ds-rev)
