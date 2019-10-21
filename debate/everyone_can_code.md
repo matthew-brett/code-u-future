@@ -39,20 +39,13 @@ Preface to Python Data Science Handbook by Jake VanderPlas
 
 # What is Data Science?
 
-* Coding
-* Stats
+Combining:
+
 * Domain expertise
+* Maths/stats
+* Coding
 
-Oh, and it's not just for scientists, but all researchers.
-
-# Premise
-
-* There will come a time when all new university researchers will be able to code
-* A researcher who codes will:
-  * Do better research
-  * Do quicker research
-  * Do more reproducible research
-  * Be able to supervise students who code
+...and it's not just for scientists, but all researchers.
 
 # Coding Goals
 
@@ -78,9 +71,20 @@ Oh, and it's not just for scientists, but all researchers.
 
 # Coding is for everyone!
 
-* Gone are the days when coding was just for techies.
+* Gone are the days when coding was just for techies
 * It's in the primary school curriculum
-* => In 15 years' time all PhD students will have done it at primary school
+* => In 15 years' time most PhD students will have done it at primary school
+
+# Premise
+
+* There will come a time when all new researchers will be able to code
+* A researcher who codes will:
+  * Do better research
+  * Do quicker research
+  * Do more reproducible research
+  * Be able to supervise students who code
+  * Publish more papers, books etc.
+  * Progress faster in their career
 
 # Why does it matter?
 
@@ -96,4 +100,16 @@ https://www.bbc.co.uk/news/magazine-22223190
 
 * Code / data separation (=> don't edit the raw data)
 * Use the code to test the data
+* And tests to test the code
+* Calculate results using code
+* Generate figures using your code
 * Get the right results
+
+# Conclusion
+
+* Primary school => everyone **can** learn to code, *or at least learn what is possible*
+* Data-based research done using code will be:
+  * Better
+  * Faster
+* In the future all new researchers will be able to code (to some extent)
+* Why not lead the way now?
