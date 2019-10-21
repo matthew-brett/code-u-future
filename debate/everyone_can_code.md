@@ -25,17 +25,6 @@ and a Heuristic Example"
 
 # What is Data Science?
 
-<!---
-The Berkeley people hate this diagram - I think I do too.
-Just sayin'.
--->
-
-![](images/Data_Science_VD.png){height=70%}
-
-http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
-
-# What is Data Science?
-
 "With this in mind, I would encourage you to think of data science not as a new
 domain of knowledge to learn, but a new set of skills that you can apply within
 your current area of expertise."
@@ -51,6 +40,10 @@ Combining:
 * Coding
 
 ...and it's not just for scientists, but all researchers.
+
+# What is Data Science?
+
+Doing the job properly.
 
 # Coding Goals
 
