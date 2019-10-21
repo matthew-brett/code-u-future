@@ -25,6 +25,11 @@ and a Heuristic Example"
 
 # What is Data Science?
 
+<!---
+The Berkeley people hate this diagram - I think I do too.
+Just sayin'.
+-->
+
 ![](images/Data_Science_VD.png){height=70%}
 
 http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
