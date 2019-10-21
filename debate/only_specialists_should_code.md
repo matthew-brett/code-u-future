@@ -14,7 +14,7 @@ css: everyone_can_code.css
   years](https://www.norvig.com/21-days.html).
 * Specialists know lots of tricks to write better code,
   that we don't have time to learn.
-* No one we are working with codes, so why learn?
+* No one that we are working with codes, so why learn?
 
 # GUIs are totally fine
 
@@ -33,4 +33,7 @@ css: everyone_can_code.css
 * We can ask a clever programmer to do the hard stuff.  How
   hard can it be to explain psychology / biology
   / hydrology / New Testament Greek?
-* That's the most efficient
+* That's the most efficient.  I work on the science, the
+  programmer works on the programming.
+* Machine learning - what's that all about?  Or AI?
+* What could possibly go wrong?
